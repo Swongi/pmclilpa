@@ -1,0 +1,47 @@
+{
+	"Version": 3,
+	"FileReferences": {
+		"Moc": "pmc_lilpa.moc3",
+		"Textures": [
+			"pmc_lilpa.2048/texture_00.png"
+		],
+		"Physics": "pmc_lilpa.physics3.json",
+		"DisplayInfo": "pmc_lilpa.cdi3.json",
+		"Motions": {
+			"Click": [
+				{
+					"File": "motions/fullauto.motion3.json"
+				},
+				{
+					"File": "motions/gotya.motion3.json"
+				}
+			],
+			"Idle": [
+				{
+					"File": "motions/idle.motion3.json"
+				}
+			]
+		}
+	},
+	"Groups": [
+		{
+			"Target": "Parameter",
+			"Name": "LipSync",
+			"Ids": []
+		},
+		{
+			"Target": "Parameter",
+			"Name": "EyeBlink",
+			"Ids": [
+				"ParamEyeROpen",
+				"ParamEyeLOpen"
+			]
+		}
+	],
+	"HitAreas": [
+		{
+			"Id": "HitArea",
+			"Name": "Click"
+		}
+	]
+}
