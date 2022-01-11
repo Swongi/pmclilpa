@@ -1,0 +1,387 @@
+{
+	"Version": 3,
+	"Parameters": [
+		{
+			"Id": "ParamHairFSway",
+			"GroupId": "ParamGroup",
+			"Name": "hair F"
+		},
+		{
+			"Id": "ParamHairR0",
+			"GroupId": "ParamGroup",
+			"Name": "hair R 0"
+		},
+		{
+			"Id": "ParamHairR1",
+			"GroupId": "ParamGroup",
+			"Name": "hair R 1"
+		},
+		{
+			"Id": "ParamHairR2",
+			"GroupId": "ParamGroup",
+			"Name": "hair R 2"
+		},
+		{
+			"Id": "ParamHairRF",
+			"GroupId": "ParamGroup",
+			"Name": "hair R F"
+		},
+		{
+			"Id": "ParamHairRTip0",
+			"GroupId": "ParamGroup",
+			"Name": "hair R tip 0"
+		},
+		{
+			"Id": "ParamHairRTip1",
+			"GroupId": "ParamGroup",
+			"Name": "hair R tip 1"
+		},
+		{
+			"Id": "ParamHairRB",
+			"GroupId": "ParamGroup",
+			"Name": "hair R B"
+		},
+		{
+			"Id": "ParamHairLRip1",
+			"GroupId": "ParamGroup",
+			"Name": "hair L tip1"
+		},
+		{
+			"Id": "ParamHairLRip2",
+			"GroupId": "ParamGroup",
+			"Name": "hair L tip2"
+		},
+		{
+			"Id": "ParamHairLRip3",
+			"GroupId": "ParamGroup",
+			"Name": "hair L tip3"
+		},
+		{
+			"Id": "ParamSidetail",
+			"GroupId": "ParamGroup2",
+			"Name": "sidetail"
+		},
+		{
+			"Id": "Param_Angle_Rotation_2_ArtMesh120",
+			"GroupId": "ParamGroup2",
+			"Name": "[1]sidetail D"
+		},
+		{
+			"Id": "Param_Angle_Rotation_3_ArtMesh120",
+			"GroupId": "ParamGroup2",
+			"Name": "[2]sidetail D"
+		},
+		{
+			"Id": "Param_Angle_Rotation_4_ArtMesh120",
+			"GroupId": "ParamGroup2",
+			"Name": "[3]sidetail D"
+		},
+		{
+			"Id": "Param_Angle_Rotation_5_ArtMesh120",
+			"GroupId": "ParamGroup2",
+			"Name": "[4]sidetail D"
+		},
+		{
+			"Id": "Param_Angle_Rotation_6_ArtMesh120",
+			"GroupId": "ParamGroup2",
+			"Name": "[5]sidetail D"
+		},
+		{
+			"Id": "Param_Angle_Rotation_7_ArtMesh120",
+			"GroupId": "ParamGroup2",
+			"Name": "[6]sidetail D"
+		},
+		{
+			"Id": "ParamSidetailTip",
+			"GroupId": "ParamGroup2",
+			"Name": "sidetail tip"
+		},
+		{
+			"Id": "ParamRibbon",
+			"GroupId": "ParamGroup3",
+			"Name": "ribbon"
+		},
+		{
+			"Id": "ParamRadio",
+			"GroupId": "ParamGroup3",
+			"Name": "radio"
+		},
+		{
+			"Id": "ParamRadio1",
+			"GroupId": "ParamGroup3",
+			"Name": "radio 1"
+		},
+		{
+			"Id": "ParamRadio2",
+			"GroupId": "ParamGroup3",
+			"Name": "radio 2"
+		},
+		{
+			"Id": "ParamZipper",
+			"GroupId": "ParamGroup3",
+			"Name": "zipper"
+		},
+		{
+			"Id": "ParamIdcard0",
+			"GroupId": "ParamGroup3",
+			"Name": "id card 0"
+		},
+		{
+			"Id": "ParamIdcard1",
+			"GroupId": "ParamGroup3",
+			"Name": "id card 1"
+		},
+		{
+			"Id": "ParamBagLope1",
+			"GroupId": "ParamGroup3",
+			"Name": "bag lope 1"
+		},
+		{
+			"Id": "ParamBagLope2",
+			"GroupId": "ParamGroup3",
+			"Name": "bag lope 2"
+		},
+		{
+			"Id": "ParamArmRX",
+			"GroupId": "",
+			"Name": "arm R x"
+		},
+		{
+			"Id": "ParamArmRAngle",
+			"GroupId": "",
+			"Name": "arm R angle"
+		},
+		{
+			"Id": "ParamShoulderAngle",
+			"GroupId": "",
+			"Name": "shoulder angle"
+		},
+		{
+			"Id": "ParamEyeROpen",
+			"GroupId": "",
+			"Name": "오른쪽 눈 깜빡임"
+		},
+		{
+			"Id": "ParamEyeLOpen",
+			"GroupId": "",
+			"Name": "왼쪽 눈 깜빡임"
+		},
+		{
+			"Id": "ParamBrowAngle",
+			"GroupId": "",
+			"Name": "brow angle"
+		},
+		{
+			"Id": "ParamEyeBallX",
+			"GroupId": "",
+			"Name": "눈 X"
+		},
+		{
+			"Id": "ParamEyeBallY",
+			"GroupId": "",
+			"Name": "눈 Y"
+		},
+		{
+			"Id": "ParamEyeStar",
+			"GroupId": "",
+			"Name": "eye star"
+		},
+		{
+			"Id": "ParamMouthForm",
+			"GroupId": "",
+			"Name": "입 변형"
+		},
+		{
+			"Id": "ParamAngleX",
+			"GroupId": "",
+			"Name": "각도 X"
+		},
+		{
+			"Id": "ParamAngleY",
+			"GroupId": "",
+			"Name": "각도 Y"
+		},
+		{
+			"Id": "ParamBodyAngleX",
+			"GroupId": "",
+			"Name": "몸의 회전 X"
+		},
+		{
+			"Id": "ParamBodyAngleY",
+			"GroupId": "",
+			"Name": "몸의 회전 Y"
+		},
+		{
+			"Id": "ParamLegAngleX",
+			"GroupId": "",
+			"Name": "다리 회전 X"
+		},
+		{
+			"Id": "ParamBreastX",
+			"GroupId": "",
+			"Name": "breast x"
+		},
+		{
+			"Id": "ParamBreastY",
+			"GroupId": "",
+			"Name": "breast y"
+		},
+		{
+			"Id": "ParamShellEject",
+			"GroupId": "",
+			"Name": "shell eject"
+		},
+		{
+			"Id": "ParamShellOp",
+			"GroupId": "",
+			"Name": "shell op"
+		},
+		{
+			"Id": "ParamBody",
+			"GroupId": "",
+			"Name": "body"
+		},
+		{
+			"Id": "ParamP",
+			"GroupId": "",
+			"Name": "p"
+		}
+	],
+	"ParameterGroups": [
+		{
+			"Id": "ParamGroup",
+			"GroupId": "",
+			"Name": "hair"
+		},
+		{
+			"Id": "ParamGroup2",
+			"GroupId": "",
+			"Name": "sidetail D"
+		},
+		{
+			"Id": "ParamGroup3",
+			"GroupId": "",
+			"Name": "acc"
+		}
+	],
+	"Parts": [
+		{
+			"Id": "Part",
+			"Name": "arm R"
+		},
+		{
+			"Id": "head",
+			"Name": "head"
+		},
+		{
+			"Id": "zipper",
+			"Name": "zipper"
+		},
+		{
+			"Id": "Part8",
+			"Name": "id card"
+		},
+		{
+			"Id": "body",
+			"Name": "body"
+		},
+		{
+			"Id": "leg",
+			"Name": "leg"
+		},
+		{
+			"Id": "Part10",
+			"Name": "arm L"
+		},
+		{
+			"Id": "Part11",
+			"Name": "bag R"
+		},
+		{
+			"Id": "sidetail",
+			"Name": "sidetail"
+		},
+		{
+			"Id": "sight",
+			"Name": "sight"
+		},
+		{
+			"Id": "rail",
+			"Name": "rail"
+		},
+		{
+			"Id": "Part2",
+			"Name": "hand I"
+		},
+		{
+			"Id": "stock",
+			"Name": "stock"
+		},
+		{
+			"Id": "handle",
+			"Name": "handle"
+		},
+		{
+			"Id": "Part3",
+			"Name": "hand O"
+		},
+		{
+			"Id": "mag",
+			"Name": "mag"
+		},
+		{
+			"Id": "Part4",
+			"Name": "hair F"
+		},
+		{
+			"Id": "radio",
+			"Name": "radio"
+		},
+		{
+			"Id": "brow",
+			"Name": "brow"
+		},
+		{
+			"Id": "Part5",
+			"Name": "eye R"
+		},
+		{
+			"Id": "Part6",
+			"Name": "eye L"
+		},
+		{
+			"Id": "mouth",
+			"Name": "mouth"
+		},
+		{
+			"Id": "Part7",
+			"Name": "hair B"
+		},
+		{
+			"Id": "Part9",
+			"Name": "body acc"
+		},
+		{
+			"Id": "ArtMesh120_Skinning",
+			"Name": "sidetail D(스키닝)"
+		},
+		{
+			"Id": "Part12",
+			"Name": "sidetail D(회전)"
+		}
+	],
+	"CombinedParameters": [
+		[
+			"ParamEyeBallX",
+			"ParamEyeBallY"
+		],
+		[
+			"ParamAngleX",
+			"ParamAngleY"
+		],
+		[
+			"ParamBreastX",
+			"ParamBreastY"
+		]
+	]
+}
